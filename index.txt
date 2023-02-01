@@ -1,6 +1,0 @@
-create a project
-folder named mygitproject
-
-create 2 txt files named
-master.txt
-index.txt
