@@ -8,5 +8,3 @@ folder named mygitproject
 create 2 txt files named
 master.txt
 index.txt
-
-today is 2 feb
