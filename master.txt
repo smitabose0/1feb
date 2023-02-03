@@ -11,3 +11,5 @@ master.txt
 index.txt
 
 doing revert
+
+doing reset practice
